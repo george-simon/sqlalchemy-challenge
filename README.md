@@ -31,7 +31,7 @@ Utilize Python and SQLAlchemy to do basic climate analysis and data exploration 
 
 
 ### Part II - Climate App
-Design an API based on the queries that you have just developed using FLASK to create the routes
+Design an API based on the queries that you have just developed using FLASK to create the routes.
 
 #### Routes
 * '/'
